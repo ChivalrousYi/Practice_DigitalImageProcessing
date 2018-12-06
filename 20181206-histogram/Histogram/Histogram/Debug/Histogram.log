@@ -1,0 +1,5 @@
+﻿  AboutHistogram.cpp
+e:\digitalimageprocessing\20181206-histogram\histogram\histogram\abouthistogram.cpp(46): warning C4102: “cv”: 未引用的标签
+e:\digitalimageprocessing\20181206-histogram\histogram\histogram\abouthistogram.cpp(109): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Histogram.vcxproj -> E:\DigitalImageProcessing\20181206-histogram\Histogram\Debug\Histogram.exe
+  Histogram.vcxproj -> E:\DigitalImageProcessing\20181206-histogram\Histogram\Debug\Histogram.pdb (Full PDB)
